@@ -32,3 +32,14 @@ const webPath = 'https://enterprisetalk.com';
 const API_ROOTT = 'https://app-node-enterprisetalk.ondotmail.com:3037';
 
 export {API_ROOTT, API_ROOT,webPath};
+
+
+const API_ROOT = 'https://app-node.talkfintech.com:3016';
+// const API_ROOT = 'http://localhost:3016';
+
+//  const root_data = "https://talkfintech.ondotmail.com/updatedPostData/postData.json";
+
+const webPath = 'https://talkfintech.com'
+// const webPath = 'https://enterprisetalk.com'   // this is for images testig at local
+
+export { API_ROOT, webPath };
