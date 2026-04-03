@@ -21,3 +21,14 @@ Submit:-
 1.Live Vercel url (we will test by logging in with your own google account)
 2.Githu repo(public)
 3.A README.md that includes.what problem you ran into and how you solved them.
+
+
+ET ENV
+
+const API_ROOT = 'https://app-node.enterprisetalk.com:3000';
+// const API_ROOT = 'http://localhost:3000';
+const webPath = 'https://enterprisetalk.com';
+// const webPath = 'https://ondot-enterprisetalk.b-cdn.net'
+const API_ROOTT = 'https://app-node-enterprisetalk.ondotmail.com:3037';
+
+export {API_ROOTT, API_ROOT,webPath};
